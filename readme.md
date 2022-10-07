@@ -2,7 +2,7 @@
 
 This is a web-cam model to detect facial expression.
 
-to run above files you need to have python and following packegs installed:
+to run above files you need to have python and following packages installed:
 1) numpy
 2) keras
 3) tensorflow
